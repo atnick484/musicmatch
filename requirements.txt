@@ -1,0 +1,2 @@
+spotipy
+gspread==5.0.0
